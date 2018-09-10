@@ -1,0 +1,24 @@
+table{
+    color: #83D9F9;
+     width: 700px;
+     border-collapse: collapse;
+     border-style: solid ;
+     border-color:#FCEAA0;
+     font-size: 15px;
+     background: #000000;
+     margin-left: 300px;
+
+}
+
+td {
+    height: 3px;
+    border-style: solid;
+     border-color:#FCEAA0;
+}
+.perfil{
+    margin-left:5px;
+}
+ .sin{
+list-style-type: none;
+
+}
